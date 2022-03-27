@@ -176,6 +176,6 @@ class WebackVacuum(VacuumEntity):
         self.device.publish(params)
 
     @property
-    def device_state_attributes(self):
+    def extra_state_attributes(self):
         """Return the device-specific state attributes of this vacuum."""
         return {"raw_state": self.device.current_mode}
