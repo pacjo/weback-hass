@@ -7,6 +7,7 @@
     "weback-unofficial==0.3.5"
   ],
   "codeowners": [
-    "@opravdin"
+    "@opravdin",
+    "@pacjo"
   ]
 }
