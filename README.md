@@ -1,3 +1,7 @@
+# This repo is now archived!
+## It started as an attempt to fix awesome (but broken) [integration](https://github.com/opravdin/weback-unofficial) by opravdin, but it's no longer working.
+## As an alternative consider https://github.com/Jezza34000/homeassistant_weback_component
+
 # WeBack integration for Home Assistant
 Based on my [package](https://github.com/opravdin/weback-unofficial).  
 This thing is in early development status and currently support just a limited amount of devices - only robot vacuums (probably only without VSLAM camera tracking).
